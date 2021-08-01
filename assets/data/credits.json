@@ -1,0 +1,12 @@
+[
+    {
+        "href": "documentation.pdf",
+        "class": "documentation",
+        "icon": "<i class='bx bxs-file-pdf'></i>"
+    },
+    {
+        "href": "sitemap.xml",
+        "class": "sitemap",
+        "icon": "<i class='bx bx-sitemap'></i>"
+    }
+]

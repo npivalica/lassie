@@ -1,0 +1,182 @@
+[
+    {
+        "id" : 1,
+        "name" : "Evergreen",
+        "price" : "250.00",
+        "latinName" : "Vinca major",
+        "available" : true,
+        "category": {
+            "id": 3,
+            "name": "Ground covers"
+        },
+        "description" : "We offer a plant in a pot with a diameter of 11 cm. The plant blooms purple.",
+        "weight": 0.25,
+        "dimensions":null,
+        "image": {
+            "src" : "SAL_5147.jpg",
+            "alt" : "Evergreen"
+        }
+    },
+    {
+        "id": 2,
+        "name": "Pahisandra",
+        "price": "300.00",
+        "latinName": "Pachysandra terminalis",
+        "available": true,
+        "category": {
+            "id": 3,
+            "name": "Ground covers"
+        },
+        "description": null,
+        "weight": 0.35,
+        "dimensions":null,
+        "image": {
+            "src": "SAL_5249.jpg",
+            "alt": "Pahisandra"
+        }
+    },
+    {
+        "id": 3,
+        "name": "Coral bell",
+        "price": "500.00",
+        "latinName": "Heuchera micrantha",
+        "available": true,
+        "category": {
+            "id": 3,
+            "name": "Ground covers"
+        },
+        "description": null,
+        "weight": 0.41,
+        "dimensions":null,
+        "image": {
+            "src": "SAL_5206.jpg",
+            "alt": "Hojhera"
+        }
+    },
+    {
+        "id": 4,
+        "name": "Sedum",
+        "price": "200.00",
+        "latinName": "Sedum sp.",
+        "available": true,
+        "category": {
+            "id": 2,
+            "name": "Succulents"
+        },
+        "description": null,
+        "weight": 0.3,
+        "dimensions":null,
+        "image": {
+            "src": "SAL_5205.jpg",
+            "alt": "Sedum"
+        }
+    },
+    {
+        "id": 5,
+        "name": "Guardian of the house",
+        "price": "200.00",
+        "latinName": "Sempervivum tectorum",
+        "available": true,
+        "category": {
+            "id": 2,
+            "name": "Succulents"
+        },
+        "description": null,
+        "weight": 0.31,
+        "dimensions":10,
+        "image": {
+            "src": "cuvarkuca.jpg",
+            "alt": "Cuvarkuca"
+        }
+    },
+    {
+        "id": 6,
+        "name": "Succulents Mix",
+        "price": "160.00",
+        "latinName": "Succulenten gemengd",
+        "available": true,
+        "category": {
+            "id": 2,
+            "name": "Succulents"
+        },
+        "description": "When ordering, you choose one plant from the mix and you can emphasize this in the note.",
+        "weight": 0.1,
+        "dimensions": null,
+        "image": {
+            "src": "suculente.jpg",
+            "alt": "Succulents"
+        }
+    },
+    {
+        "id": 7,
+        "name": "Sansevieria ",
+        "price": "1550.00",
+        "latinName":  "Sansevieria trifoliata",
+        "available": false,
+        "category": {
+            "id": 1,
+            "name": "Houseplants"
+        },
+        "description": null,
+        "weight": 2.5,
+        "dimensions": 75,
+        "image": {
+            "src": "sanseve.jpg",
+            "alt": "Mother-in-law's tongue"
+        }
+    },
+    {
+        "id": 8,
+        "name": "Monstera Monkey Leaf",
+        "price": "1300.00",
+        "latinName": "Monstera Adansonii",
+        "available": true,
+        "category": {
+            "id": 1,
+            "name": "Houseplants"
+        },
+        "description": null,
+        "weight": 0.5,
+        "dimensions": null,
+        "image": {
+            "src": "Monstera-obliqua.jpg",
+            "alt": "Monstera"
+        }
+    },
+    {
+        "id": 9,
+        "name": "Money Tree",
+        "price": "9000.00",
+        "latinName": "Crassula ovata",
+        "available": true,
+        "category": {
+            "id": 1,
+            "name": "Houseplants"
+        },
+        "description": null,
+        "weight": 3,
+        "dimensions": 30,
+        "image": {
+            "src": "crassula-ovata.jpg",
+            "alt": "Krasula"
+        }
+    },
+    {
+        "id": 10,
+        "name": "Round Cactus",
+        "price": "84200.00",
+        "latinName": "Cactus sp.",
+        "available": true,
+        "category": {
+            "id": 1,
+            "name": "Houseplants"
+        },
+        "description": null,
+        "weight": 70,
+        "dimensions": 65,
+        "image": {
+            "src": "kaktus-okrugli.jpg",
+            "alt": "Cactus"
+        }
+    }
+]

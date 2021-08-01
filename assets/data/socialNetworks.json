@@ -1,0 +1,27 @@
+[
+    {
+        "href": "https://www.facebook.com",
+        "class": "facebook",
+        "icon": "<i class='bx bxl-facebook'></i>"
+    },
+    {
+        "href": "https://www.instagram.com/",
+        "class": "instagram",
+        "icon": "<i class='bx bxl-instagram'></i>"
+    },
+    {
+        "href": "https://twitter.com",
+        "class": "twitter",
+        "icon": "<i class='bx bxl-twitter'></i>"
+    },
+    {
+        "href": "https://www.skype.com",
+        "class": "skype",
+        "icon" : "<i class='bx bxl-skype'></i>"
+    },
+    {
+        "href": "https://www.linkedin.com",
+        "class": "linkedin",
+        "icon": "<i class='bx bxl-linkedin'></i>"
+    }
+]

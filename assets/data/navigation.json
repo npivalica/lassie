@@ -1,0 +1,14 @@
+[
+    {
+        "href": "index.html",
+        "navText": "Home"
+    },
+    {
+        "href": "contact.html",
+        "navText": "Contact"
+    },
+    {
+        "href": "cart.html",
+        "navText": "<i class='icofont-opencart'></i>"
+    }
+]
